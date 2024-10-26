@@ -2,36 +2,36 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==AO4k2bYd2Vml0dIRVcLJWTFZ2YnpkRTFDORl2SRB3XYtEMOBDOmhnZsdzSjo1NLFlaWllSpwd=739767957552',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
-⏰ Now time is @time
-📅 Date : @date
+⏰ Now time is : Angalia saa yako 😂 
+📅 Date : Tarehe Huijui?? 
 
-🟢 I am online still @uptime
-🔄 Response Delay : @ping Ms
-💻 Host : @host
-🪢 Version : @version
+🟢 I am online still : 9Hayakuhusu 😂 
+🔄 Response Delay : please wait 😔 
+💻 Host : professor.com
+🪢 Version : Professor ver 2.1
 
-☫ Work Mode : @mode
-☫ Work Type : @worktype
+☫ Work Mode : @ONLINE WORK
+☫ Work Type : @CIVE STUDENT
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+PROFESSOR ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
-  PREFIX: '.$&',
+  PREFIX: '!',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'PROFESSOR BOT ✍️🥼',
+  OWNER_NAME: 'PROFESSOR ✍️🥼',
+  OWNER_NUMBER: '255759767937',
+  SUDO: '255759767937',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSOR HIMSELF',
+  STICKER_AUTHOR: 'PROFESSOR',
   STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
