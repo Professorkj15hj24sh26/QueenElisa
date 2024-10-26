@@ -6,16 +6,16 @@ module.exports = {
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
-⏰ Now time is : Angalia saa yako 😂 
-📅 Date : Tarehe Huijui?? 
+⏰ Now time is : Angalia_saa_yako😂 
+📅 Date : Tarehe_Huijui?? 
 
-🟢 I am online still : 9Hayakuhusu 😂 
-🔄 Response Delay : please wait 😔 
-💻 Host : professor.com
-🪢 Version : Professor ver 2.1
+🟢 I am online still : 9Hayakuhusu😂 
+🔄 Response Delay : please_wait😔 
+💻 Host : professorTech.com
+🪢 Version : Professor_ver_2.1
 
-☫ Work Mode : @ONLINE WORK
-☫ Work Type : @CIVE STUDENT
+☫ Work Mode : NETWORKER 
+☫ Work Type : CIVE_STUDENT
 
 PROFESSOR ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
