@@ -19,7 +19,7 @@ module.exports = {
 
 PROFESSOR ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://professorkj15hj24sh26:<ksYvvjzz5FTLRl7O>@cluster0.sob6b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', 
   PREFIX: '!',
   LANGUAGE: 'EN',
   PORT: 3000,
